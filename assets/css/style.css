@@ -1,0 +1,43 @@
+body {
+    background: url(../images/brickbackground.jpg) top left repeat
+}
+
+h1 {
+    font-family: 'Frijole', cursive;
+    color: #CE0000;
+    text-align: center;
+    font-size: 68px;
+    text-shadow: 5px 5px whitesmoke;
+    margin-bottom: 35px;
+    padding: 30px;
+}
+
+
+
+.main-left {
+    border: solid 5px #CE0000;
+    background: url(../images/subtle_white_feathers_@2X.png);
+    padding: 30px;
+    height: 550px;
+    margin-top: 40px;
+    
+}
+
+.main-right {
+    border: solid 5px #CE0000;
+    padding: 30px;
+    background: url(../images/subtle_white_feathers_@2X.png);
+    height: 550px;
+    margin: 40px 10px;
+}
+
+.main-left img {
+    width: 100%;
+}
+
+p {
+    font-family: 'Frijole', cursive;
+    color: #3A3C3D;
+    font-size: 18px;
+    text-align: center;
+}
