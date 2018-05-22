@@ -1,4 +1,4 @@
-Monster Hangman 
+# Monster Hangman 
 
 Create a new GitHub repo called Hangman-Game or Psychic-Game, in accordance with the assignment you choose to complete. Then, clone it to your computer.
 Inside your local git repository, create an index.html.
