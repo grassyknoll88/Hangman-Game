@@ -16,5 +16,6 @@ In the images folder, save whatever images you plan on using.
 
 Push the above changes to GitHub.
 Choose whichever game you'd like to build. Making the Psychic game will prove less challenging than coding Hangman. However, as the challenge of the Hangman exercise provides a more comprehensive review of this week's material, we suggest attempting that assignment first.
-Note: There's no shame if you'd prefer submitting Psychic—it's still a proper challenge.
 Push your selected game to Github Pages.
+
+Screen Shot 2018-05-22 at 10.06.32 AM
