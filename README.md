@@ -1,6 +1,6 @@
 # Monster Hangman 
 
-Create a new GitHub repo called Hangman-Game or Psychic-Game, in accordance with the assignment you choose to complete. Then, clone it to your computer.
+Create a new GitHub repo called Hangman-Game. Then, clone it to your computer.
 Inside your local git repository, create an index.html.
 While still in your local git repo, create a directory called assets.
 cd your way into the assets folder, then make three additional folders: javascript, css and images.
