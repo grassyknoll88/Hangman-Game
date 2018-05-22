@@ -1,5 +1,11 @@
 # Monster Hangman 
 
+## Overview
+
+For this assignment we were tasked with creating a hangman game application based in javascript. We were able to select our own theme and implement our own styling.   
+
+### Requirements
+
 Create a new GitHub repo called Hangman-Game. Then, clone it to your computer.
 Inside your local git repository, create an index.html.
 While still in your local git repo, create a directory called assets.
